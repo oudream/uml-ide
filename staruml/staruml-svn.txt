@@ -1,0 +1,1 @@
+svn://svn.code.sf.net/p/staruml/code/trunk

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:dunnart="http://www.dunnart.org/ns/dunnart">
+  <dunnart:node type="connector" id="3" srcID="1" dstID="22"/>
+  <dunnart:node type="connector" id="23" srcID="4" dstID="5"/>
+  <dunnart:node type="connector" id="24" srcID="5" dstID="1"/>
+  <dunnart:node type="connector" id="25" srcID="5" dstID="17"/>
+  <dunnart:node type="connector" id="29" srcID="8" dstID="9"/>
+  <dunnart:node type="connector" id="30" srcID="9" dstID="10"/>
+  <dunnart:node type="connector" id="31" srcID="10" dstID="21"/>
+  <dunnart:node type="connector" id="34" srcID="1" dstID="16"/>
+  <dunnart:node type="connector" id="35" srcID="16" dstID="17"/>
+  <dunnart:node type="connector" id="36" srcID="17" dstID="18"/>
+  <dunnart:node type="connector" id="37" srcID="18" dstID="19"/>
+  <dunnart:node type="connector" id="38" srcID="16" dstID="19"/>
+  <dunnart:node type="connector" id="39" srcID="19" dstID="20"/>
+  <dunnart:node type="connector" id="40" srcID="20" dstID="21"/>
+  <dunnart:node type="connector" id="41" srcID="21" dstID="22"/>
+  <dunnart:node type="connector" id="42" srcID="19" dstID="22"/>
+  <dunnart:node type="rect" id="1" cx="289" cy="259" width="85" height="30" label="Ares" lockedPos="1" />
+  <dunnart:node type="rect" id="4" cx="93" cy="219" width="85" height="30" label="Apollo"/>
+  <dunnart:node type="rect" id="5" cx="179" cy="281" width="85" height="30" label="Aphrodite"/>
+  <dunnart:node type="rect" id="8" cx="788" cy="171" width="85" height="30" label="Hades"/>
+  <dunnart:node type="rect" id="9" cx="697" cy="214" width="85" height="30" label="Hera"/>
+  <dunnart:node type="rect" id="10" cx="603" cy="259" width="85" height="30" label="Hermes"/>
+  <dunnart:node type="rect" id="16" cx="280" cy="360" width="85" height="30" label="Hestia"/>
+  <dunnart:node type="rect" id="17" cx="185" cy="392" width="85" height="30" label="Poseidon"/>
+  <dunnart:node type="rect" id="18" cx="273" cy="460" width="85" height="30" label="Zeus"/>
+  <dunnart:node type="rect" id="19" cx="371" cy="407" width="85" height="30" label="Athena"/>
+  <dunnart:node type="rect" id="20" cx="479" cy="409" width="85" height="30" label="Dementer"/>
+  <dunnart:node type="rect" id="21" cx="506" cy="305" width="85" height="30" label="Dionysus"/>
+  <dunnart:node type="rect" id="22" cx="396" cy="297" width="85" height="30" label="Hephaestus"/>
+</svg>
